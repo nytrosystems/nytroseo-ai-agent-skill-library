@@ -1,6 +1,6 @@
 ---
 name: topical-research-newsworthy-insights
-description: Use for original, newsworthy research on companies, brands, products, organizations, or people: generate topics, validate evidence, analyze data, and build publishable reports and dashboards.
+description: "Use for original, newsworthy research on companies, brands, products, organizations, or people: generate topics, validate evidence, analyze data, and build publishable reports and dashboards."
 ---
 
 # Topical Research & Newsworthy Insights Orchestrator
