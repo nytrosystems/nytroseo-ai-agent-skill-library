@@ -636,6 +636,14 @@ Then reassess originality.
 
 # PHASE 5 — Research Execution
 
+## MANDATORY EXTERNAL RESEARCH & DATA DISCOVERY
+
+For every research execution, actively use all available research and analysis tools to find credible external evidence, including web search, public/government databases, APIs, academic research, regulatory/company filings, industry datasets, open-data repositories, raw downloadable files, surveys, and other relevant sources.
+
+Prioritize primary, original, and machine-readable data whenever available. Do not rely on articles, AI summaries, search snippets, or secondary references when the underlying dataset, report, filing, API, or publication can be accessed directly.
+
+Maintain a Data Source Map throughout the research so every major finding can be traced back to authentic external evidence.
+
 ## Source Priority
 
 Prefer, in order:
@@ -653,7 +661,7 @@ Prefer, in order:
 This hierarchy is a preference, not a substitute for judgment.
 
 A high-quality secondary source may sometimes be more useful than a weak primary source.
-
+Page_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_DownPage_Down
 ## Source Evaluation
 
 Evaluate material sources for:
@@ -1210,6 +1218,15 @@ When external dependencies are unsuitable or unavailable:
 - ensure core findings remain readable without JavaScript
 
 Do not make the dashboard dependent on an external service simply to display core research.
+
+## HTML Dashboard Delivery Rule
+
+When the final deliverable is an HTML dashboard:
+
+* Do **not** paste the full HTML source into chat.
+* Create a complete standalone `.html` file with embedded CSS.
+* Return a clickable link to the HTML file as the primary deliverable.
+* Only show raw HTML if the user explicitly asks for the source code.
 
 ## Dashboard Architecture
 
